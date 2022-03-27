@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Renee. 👋
+
+- 🔭 I’m currently working on: [@syllabird](https://github.com/syllabird)
+- 💬 Talk to me about: front-end dev, design, a11y, foundership
+- 😄 Pronouns: she/her
 
 <!--
 **rndennis/rndennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
